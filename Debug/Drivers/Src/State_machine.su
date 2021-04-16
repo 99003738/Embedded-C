@@ -1,0 +1,5 @@
+State_machine.c:12:6:State_init	8	static
+State_machine.c:18:6:State_trans	8	static
+State_machine.c:28:6:state_01	8	static
+State_machine.c:42:6:state_02	8	static
+State_machine.c:53:6:state_03	8	static

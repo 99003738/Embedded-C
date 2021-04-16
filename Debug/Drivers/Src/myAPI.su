@@ -1,0 +1,7 @@
+myAPI.c:12:6:delay	24	static
+myAPI.c:17:6:pinMode	32	static
+myAPI.c:50:6:PinModePuPd	32	static
+myAPI.c:81:6:digitalWritePin	16	static
+myAPI.c:94:6:digitalWritePort	16	static
+myAPI.c:99:10:digitalReadPort	24	static
+myAPI.c:105:10:digitalReadPin	24	static

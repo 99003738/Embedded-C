@@ -1,0 +1,7 @@
+STM32F4xx_GPIO_driver.c:10:7:GPIO_PeripheralCLK	16	static
+STM32F4xx_GPIO_driver.c:57:7:GPIO_Init	40	static
+STM32F4xx_GPIO_driver.c:102:11:GPIO_ReadfromPort	24	static
+STM32F4xx_GPIO_driver.c:110:10:GPIO_ReadfromPin	24	static
+STM32F4xx_GPIO_driver.c:132:7:GPIO_WritetoPort	16	static
+STM32F4xx_GPIO_driver.c:139:7:GPIO_WritetoPin	16	static
+STM32F4xx_GPIO_driver.c:154:7:GPIO_Toggle	16	static
