@@ -3,10 +3,10 @@
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
+`Debug`   | Folder contain the automatic debug files by STM32 Cube IDE
+`Drivers`         | All the driver development source code for project is inside this
+`Src` | Automatic generated file by IDE.
+`Startup`      | Folder containing the start up file for IDE.
 
 ## Contributors List and Summary
 
